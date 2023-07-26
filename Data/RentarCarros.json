@@ -1,0 +1,37 @@
+[
+  {
+    "Company": "Empresa A",
+    "Model": "Modelo X",
+    "Marca": "Marca 1",
+    "Matricula": "ABC123",
+    "PrecioPorMes": "500"
+  },
+  {
+    "Company": "Empresa B",
+    "Model": "Modelo Y",
+    "Marca": "Marca 2",
+    "Matricula": "DEF456",
+    "PrecioPorMes": "600"
+  },
+  {
+    "Company": "Empresa C",
+    "Model": "Modelo Z",
+    "Marca": "Marca 3",
+    "Matricula": "GHI789",
+    "PrecioPorMes": "700"
+  },
+  {
+    "Company": "Empresa D",
+    "Model": "Modelo W",
+    "Marca": "Marca 4",
+    "Matricula": "JKL012",
+    "PrecioPorMes": "550"
+  },
+  {
+    "Company": "Empresa E",
+    "Model": "Modelo V",
+    "Marca": "Marca 5",
+    "Matricula": "MNO345",
+    "PrecioPorMes": "450"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "FlightId": 1,
+    "Origin": "Ciudad X",
+    "Destination": "Ciudad Y",
+    "DescritionFlight": "Vuelo directo",
+    "Precio": 250.50
+  },
+  {
+    "FlightId": 2,
+    "Origin": "Ciudad Y",
+    "Destination": "Ciudad Z",
+    "DescritionFlight": "Vuelo con escala en Ciudad X",
+    "Precio": 175.99
+  },
+  {
+    "FlightId": 3,
+    "Origin": "Ciudad Z",
+    "Destination": "Ciudad X",
+    "DescritionFlight": "Vuelo directo",
+    "Precio": 320.25
+  },
+  {
+    "FlightId": 4,
+    "Origin": "Ciudad X",
+    "Destination": "Ciudad Z",
+    "DescritionFlight": "Vuelo con escala en Ciudad Y",
+    "Precio": 199.75
+  },
+  {
+    "FlightId": 5,
+    "Origin": "Ciudad Y",
+    "Destination": "Ciudad X",
+    "DescritionFlight": "Vuelo directo",
+    "Precio": 185.00
+  }
+]

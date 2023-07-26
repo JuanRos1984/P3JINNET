@@ -1,0 +1,40 @@
+[
+  
+    {
+      "HotelId": 1,
+      "Nombre": "Hotel A",
+      "Lugar": "Ciudad X",
+      "PrecioPorNoche": 100.50,
+      "DescripcionHabitacion": "Habitación espaciosa con vista al mar"
+    },
+    {
+    "HotelId": 2,
+    "Nombre": "Hotel B",
+    "Lugar": "Ciudad Y",
+    "PrecioPorNoche": 75.99,
+    "DescripcionHabitacion": "Habitación con balcón y desayuno incluido"
+  },
+  {
+    "HotelId": 3,
+    "Nombre": "Hotel C",
+    "Lugar": "Ciudad Z",
+    "PrecioPorNoche": 120.25,
+    "DescripcionHabitacion": "Habitación de lujo con jacuzzi"
+  },
+  {
+    "HotelId": 4,
+    "Nombre": "Hotel D",
+    "Lugar": "Ciudad X",
+    "PrecioPorNoche": 89.75,
+    "DescripcionHabitacion": "Habitación estándar con vista a la ciudad"
+  },
+  {
+    "HotelId": 5,
+    "Nombre": "Hotel E",
+    "Lugar": "Ciudad Y",
+    "PrecioPorNoche": 65.00,
+    "DescripcionHabitacion": "Habitación económica con baño privado"
+  }
+
+
+]
